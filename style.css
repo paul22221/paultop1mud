@@ -1,0 +1,30 @@
+body {
+    background-color:cornsilk;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Sono', sans-serif;
+    
+}
+.text {
+    text-align: center;
+    font-size: 35px;
+    color:blue;
+}
+
+
+.glava {
+    font-size: 100px;
+    text-align: center;
+text-shadow: 10px 5px 10px #f00;
+}
+img {
+right: 750px;
+}
+.image-center {
+    display: block;
+    margin:auto;
+}
+.text2 {
+    text-align: center;
+    font-size: 35px;
+    color:rgb(157, 255, 0);
+}
